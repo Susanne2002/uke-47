@@ -1,6 +1,6 @@
 .boks {
   width: 70%; /* boksens bredde i prosent */
-  height: 60 px; /* boksens høyde i piksler */
+  height: 60px; /* boksens høyde i piksler */
   margin: 5px auto; /* topp- og bunnmarg 5 px, sidemarg auto */
   padding: 5px; /* avstand mellom bokskant og innhold */
   background-color: #329632;
