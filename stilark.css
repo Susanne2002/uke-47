@@ -1,7 +1,56 @@
-.boks {
+.boks1 {
+  width: 70%; /* boksens bredde i prosent */
+  height: 60px; /* boksens høyde i piksler */
+  margin: 5px auto; /* topp- og bunnmarg 5 px, sidemarg auto */
+  padding: 5px; /* avstand mellom bokskant og innhold */
+  background-color: #FF0000;
+}
+
+.boks2 {
+  width: 70%; /* boksens bredde i prosent */
+  height: 60px; /* boksens høyde i piksler */
+  margin: 5px auto; /* topp- og bunnmarg 5 px, sidemarg auto */
+  padding: 5px; /* avstand mellom bokskant og innhold */
+  background-color: #FF7F00;
+}
+
+.boks3 {
   width: 70%; /* boksens bredde i prosent */
   height: 60px; /* boksens høyde i piksler */
   margin: 5px auto; /* topp- og bunnmarg 5 px, sidemarg auto */
   padding: 5px; /* avstand mellom bokskant og innhold */
   background-color: #329632;
 }
+
+.boks4 {
+  width: 70%; /* boksens bredde i prosent */
+  height: 60px; /* boksens høyde i piksler */
+  margin: 5px auto; /* topp- og bunnmarg 5 px, sidemarg auto */
+  padding: 5px; /* avstand mellom bokskant og innhold */
+  background-color: #FFFF00;
+}
+
+.boks5 {
+  width: 70%; /* boksens bredde i prosent */
+  height: 60px; /* boksens høyde i piksler */
+  margin: 5px auto; /* topp- og bunnmarg 5 px, sidemarg auto */
+  padding: 5px; /* avstand mellom bokskant og innhold */
+  background-color: #00FF00;
+}
+
+.boks6 {
+  width: 70%; /* boksens bredde i prosent */
+  height: 60px; /* boksens høyde i piksler */
+  margin: 5px auto; /* topp- og bunnmarg 5 px, sidemarg auto */
+  padding: 5px; /* avstand mellom bokskant og innhold */
+  background-color: #0000FF;
+}
+
+.boks7 {
+  width: 70%; /* boksens bredde i prosent */
+  height: 60px; /* boksens høyde i piksler */
+  margin: 5px auto; /* topp- og bunnmarg 5 px, sidemarg auto */
+  padding: 5px; /* avstand mellom bokskant og innhold */
+  background-color: #8B00FF;
+}
+
