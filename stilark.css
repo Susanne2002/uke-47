@@ -19,7 +19,7 @@
   height: 60px; /* boksens høyde i piksler */
   margin: 5px auto; /* topp- og bunnmarg 5 px, sidemarg auto */
   padding: 5px; /* avstand mellom bokskant og innhold */
-  background-color: #329632;
+  background-color: #FFFF00;
 }
 
 .boks4 {
@@ -27,7 +27,7 @@
   height: 60px; /* boksens høyde i piksler */
   margin: 5px auto; /* topp- og bunnmarg 5 px, sidemarg auto */
   padding: 5px; /* avstand mellom bokskant og innhold */
-  background-color: #FFFF00;
+  background-color: #00FF00;
 }
 
 .boks5 {
@@ -35,7 +35,7 @@
   height: 60px; /* boksens høyde i piksler */
   margin: 5px auto; /* topp- og bunnmarg 5 px, sidemarg auto */
   padding: 5px; /* avstand mellom bokskant og innhold */
-  background-color: #00FF00;
+  background-color: #0000FF;
 }
 
 .boks6 {
@@ -43,7 +43,7 @@
   height: 60px; /* boksens høyde i piksler */
   margin: 5px auto; /* topp- og bunnmarg 5 px, sidemarg auto */
   padding: 5px; /* avstand mellom bokskant og innhold */
-  background-color: #0000FF;
+  background-color: #2E2B5F;
 }
 
 .boks7 {
